@@ -1,4 +1,4 @@
-package pbj23000;
+package cjmf.work;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

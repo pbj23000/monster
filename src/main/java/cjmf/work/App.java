@@ -1,4 +1,4 @@
-package pbj23000;
+package cjmf.work;
 
 /**
  * Hello world!
